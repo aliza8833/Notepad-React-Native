@@ -8,7 +8,7 @@ Clone this repository:
 git clone https://github.com/aliza8833/Notepad-React-Native.git
 
 ScreenShots:
-
+![Noteapp](https://github.com/aliza8833/Notepad-React-Native/blob/main/Notepad-app%20png.png?raw=true)
 
 
 
